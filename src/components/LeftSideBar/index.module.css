@@ -1,0 +1,25 @@
+div.clickable {
+    padding-top: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;  
+    padding-top: 3px;
+}
+div.wrapper {
+    width: 100%;
+}
+div.wrapper:hover {
+    background-color: #182335;
+}
+div.deleter {
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 1px;
+    height: 70%;
+    cursor: pointer;
+    background-color: white;
+    border-radius: 5px;
+}
+div.deleter:hover {
+    background-color: gray;
+}
